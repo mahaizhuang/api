@@ -7,4 +7,4 @@
 ---
 # :peach:办公软件类
 - Quicker [Quicker网站](https://getquicker.net/)
-![1617753702535-f7a96e61-22fa-4a33-bf12-af84dd07a188](https://github.com/mahaizhuang/interesting/assets/43605010/d6237845-cf14-4e13-aee3-be1ac99ff7b8)
+![办公软件类](https://github.com/mahaizhuang/interesting/assets/43605010/d6237845-cf14-4e13-aee3-be1ac99ff7b8)
