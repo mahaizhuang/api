@@ -22,5 +22,9 @@
 ## [RocketDock](https://punklabs.com/rocketdock)
 ![RocketDock](https://github.com/mahaizhuang/interesting/assets/43605010/312b2ddd-8795-4af8-9852-3595b7d5dad6)
 
+## [bitdock](http://www.bitdock.cn/)
+![bitdock](https://github.com/mahaizhuang/interesting/assets/43605010/a25ca0d0-9043-4487-9414-340069ab3dd8)
 
+## [mydockfinder](https://www.mydockfinder.com/)
+完美支持最新版win11系统，使用WinUI模糊效果可以自定义调整模糊强度，部分界面使用Win11云母效果
 
