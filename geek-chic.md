@@ -12,6 +12,9 @@
 # :peach:办公软件类
 ## [Quicker](https://getquicker.net/)
 ![办公软件类](https://github.com/mahaizhuang/interesting/assets/43605010/d6237845-cf14-4e13-aee3-be1ac99ff7b8)
+
+## [enpass](https://www.enpass.io/)
+> Enpass是一款跨平台的密码管理软件。它允许用户安全地存储和管理他们的密码、信用卡信息、银行账户、身份证号码等敏感信息。
 ---
 
 # :peach:优美艺术
