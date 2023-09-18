@@ -30,10 +30,9 @@
 
 ## [优美字体](https://github.com/belluzj/fantasque-sans)
 > 这几个也不错
-
--- Fira Code
--- SF Mono
--- Roboto Mono.
+  -- Fira Code
+  -- SF Mono
+  -- Roboto Mono.
 
 ----
 # :peach:linux工具类
