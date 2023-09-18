@@ -19,8 +19,9 @@
 ## [motrix](https://motrix.app/)
 ![motrix](https://github.com/mahaizhuang/interesting/assets/43605010/ea2f5117-a55e-4698-bb4f-243099f0f52f)
 
-## [airexplorer网盘同步工具](https://www.airexplorer.net/zh-cn/pro/)
-![airexplorer网盘同步工具](https://github.com/mahaizhuang/interesting/assets/43605010/b6819759-77c3-4f6c-aa92-a5b5fd61b917)
+## [airexplorer](https://www.airexplorer.net/zh-cn/pro/)
+> 网盘同步工具
+![airexplorer](https://github.com/mahaizhuang/interesting/assets/43605010/b6819759-77c3-4f6c-aa92-a5b5fd61b917)
 
 ---
 
