@@ -28,6 +28,12 @@
 ## [mydockfinder](https://www.mydockfinder.com/)
 完美支持最新版win11系统，使用WinUI模糊效果可以自定义调整模糊强度，部分界面使用Win11云母效果
 
+## [优美字体](https://github.com/belluzj/fantasque-sans)
+> 这几个也不错
+-- Fira Code
+--SF Mono
+-- Roboto Mono.
+
 ----
 # :peach:linux工具类
 ## https://github.com/i-abc/speedtest
@@ -35,6 +41,5 @@
 
 ## [Arch Linux 中文维基](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5)
 欢迎访问 ArchWiki：您的在线 Arch Linux 文档库。这是全新的 Arch Linux 中文维基！目录表包含 ArchWiki 中文的完整目录。 
----
 
 
