@@ -21,6 +21,7 @@
 
 ## [airexplorer](https://www.airexplorer.net/zh-cn/pro/)
 > 网盘同步工具
+
 ![airexplorer](https://github.com/mahaizhuang/interesting/assets/43605010/b6819759-77c3-4f6c-aa92-a5b5fd61b917)
 
 ## [u.tools](https://u.tools/)
@@ -60,11 +61,13 @@
 
 ## [apifox](https://apifox.com/)
 > 一套系统、一份数据，解决多个 API 工具之间的数据同步问题
+
 ![apifox](https://github.com/mahaizhuang/interesting/assets/43605010/c804551d-8ede-43f1-91cb-767abe16d316)
 
 ## [Idea-Intellij IDEA](https://www.jetbrains.com/idea/)
 > IntelliJ IDEA – the Leading Java and Kotlin IDE
 > JAVA必备
+
 ![Idea-Intellij IDEA](https://github.com/mahaizhuang/interesting/assets/43605010/c9758482-aa40-4163-9e03-b39662bb90bf)
 
 
