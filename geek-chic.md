@@ -15,6 +15,13 @@
 
 ## [enpass](https://www.enpass.io/)
 > Enpass是一款跨平台的密码管理软件。它允许用户安全地存储和管理他们的密码、信用卡信息、银行账户、身份证号码等敏感信息。
+
+## [motrix](https://motrix.app/)
+![motrix](https://github.com/mahaizhuang/interesting/assets/43605010/ea2f5117-a55e-4698-bb4f-243099f0f52f)
+
+## [airexplorer网盘同步工具](https://www.airexplorer.net/zh-cn/pro/)
+![airexplorer网盘同步工具](https://github.com/mahaizhuang/interesting/assets/43605010/b6819759-77c3-4f6c-aa92-a5b5fd61b917)
+
 ---
 
 # :peach:优美艺术
