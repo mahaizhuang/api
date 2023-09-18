@@ -30,8 +30,9 @@
 
 ## [优美字体](https://github.com/belluzj/fantasque-sans)
 > 这几个也不错
+
 -- Fira Code
---SF Mono
+-- SF Mono
 -- Roboto Mono.
 
 ----
