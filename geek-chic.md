@@ -35,4 +35,6 @@
 
 ## [Arch Linux 中文维基](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5)
 欢迎访问 ArchWiki：您的在线 Arch Linux 文档库。这是全新的 Arch Linux 中文维基！目录表包含 ArchWiki 中文的完整目录。 
+---
+
 
