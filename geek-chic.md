@@ -4,7 +4,10 @@
 > 主要备注收集下有趣的软件工具
 # :roll_eyes:笔记工具类
 ## [obsidian](https://obsidian.md/)
+## [lattics](https://lattics.zineapi.com/zh-CN)
 ---
 # :peach:办公软件类
 ## [Quicker](https://getquicker.net/)
 ![办公软件类](https://github.com/mahaizhuang/interesting/assets/43605010/d6237845-cf14-4e13-aee3-be1ac99ff7b8)
+---
+
