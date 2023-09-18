@@ -5,6 +5,8 @@
 # :roll_eyes:笔记工具类
 ## [obsidian](https://obsidian.md/)
 ## [lattics](https://lattics.zineapi.com/zh-CN)
+![image](https://github.com/mahaizhuang/interesting/assets/43605010/f72b1391-d392-4620-b161-dafbec9c60ba)
+
 ---
 # :peach:办公软件类
 ## [Quicker](https://getquicker.net/)
