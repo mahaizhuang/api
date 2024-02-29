@@ -13,14 +13,18 @@
 主要是一些编程语言类的知识，项目，工具等
 
 <h3 id="2">🚘Linux系统性能实时监控工具:netdata</h3>
+
 ---
+
 - 项目地址：https://github.com/netdata/netdata
 - 推荐理由：一款免费开源的Linux系统性能实时监控工具。它易于安装、占用资源少、功能强大，支持监控多种服务。Netdata可以帮助系统管理员和开发人员实时监测Linux系统的性能和健康状况，提供及时的故障诊断和优化建议。
 
 ![network-connections](https://github.com/netdata/netdata/assets/2662304/5f71c102-9146-463e-acba-329094b136a5)
 
 <h3 id="3">🚘动画图解的数据结构与算法教程:hello-algo</h3>
+
 ---
+
 - 项目地址：https://github.com/krahets/hello-algo
 - 推荐理由：一个动画图解的数据结构与算法教程，支持多种编程语言，如 Java、C++、Python、Go、JS、TS、C#、Swift、Rust、Dart、Zig 等。通过可视化的方式，这个项目帮助学习者更轻松地理解和学习各种数据结构与算法。
 
@@ -28,12 +32,16 @@
 
 <h3 id="4">🚘前端小项目集合:50projects50 天之前</h3>
 
+---
+
 - 项目地址：https://github.com/bradtraversy/50projects50 天之前
 - 推荐理由：50 个采用 HTML+CSS+JS 的前端小项目集合。项目包含网页源码和效果展示，标准入门级的前端开源项目。通过查看效果让新手感受前端的美妙，简单的源码降低了上手写代码门槛。
 
   ![image](https://github.com/mahaizhuang/interesting/assets/43605010/499a0e78-e4a3-456f-81a9-caed23d70c55)
 
 <h3 id="5">🚘程序员的瑞士军刀:DevToys</h3>
+
+---
 
 - 项目地址：https://github.com/veler/DevToys
 - 推荐理由：程序员的瑞士军刀，打包了各种日常开发中可能会用到的小工具。它包括时间戳转化、各种解码工具、输出美化工具、颜色选择器等实用功能。DevToys 的用户界面友好且功能强大，使程序员能够更高效地完成常见的开发任务。
@@ -46,12 +54,16 @@
 
 <h3 id="7">🚘图像生成软件:Fooocus</h3>
 
+---
+
 - 项目地址：https://github.com/lllyasviel/Fooocus
 - 推荐理由：一个图像生成软件，基于Gradio开发。它不仅包含了内部优化和质量改进，还允许用户通过人机交互来探索和创造新的图像。Fooocus让用户不必担心复杂的技术参数，只需享受创造性的过程，拓展人类的想象力。这个项目适用于那些对图像生成和艺术创作感兴趣的人。
 
 ![image](https://github.com/mahaizhuang/interesting/assets/43605010/208475fd-5284-456b-90db-ae480c35aa04)
 
 <h3 id="8">🚘下一代换脸器和增强器:facefusion</h3>
+
+---
 
 - 项目地址：https://github.com/facefusion/facefusion
 - 推荐理由：一个下一代换脸器和图像增强器。它使用先进的图像处理技术，允许用户将不同的面部特征融合在一起，创造有趣和令人印象深刻的效果。这个项目的潜在应用包括娱乐、虚拟化妆和艺术创作，为用户提供了创造性的工具。
@@ -133,6 +145,8 @@ uis:
 ```
 
 <h3 id="9">🚘3D高斯飞溅实时辐射场渲染:gaussian-splatting</h3>
+
+---
 
 - 项目地址：https://github.com/graphdeco-inria/gaussian-splatting
 - 推荐理由：一个用于3D实时辐射场渲染的项目。它利用高斯飞溅技术来实现高质量的辐射场渲染，适用于图形渲染和可视化领域。这个项目为研究和应用实时渲染的开发者提供了有价值的工具和资源。
