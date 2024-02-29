@@ -13,14 +13,14 @@
 主要是一些编程语言类的知识，项目，工具等
 
 <h3 id="2">🚘Linux系统性能实时监控工具:netdata</h3>
-
+---
 - 项目地址：https://github.com/netdata/netdata
 - 推荐理由：一款免费开源的Linux系统性能实时监控工具。它易于安装、占用资源少、功能强大，支持监控多种服务。Netdata可以帮助系统管理员和开发人员实时监测Linux系统的性能和健康状况，提供及时的故障诊断和优化建议。
 
 ![network-connections](https://github.com/netdata/netdata/assets/2662304/5f71c102-9146-463e-acba-329094b136a5)
 
 <h3 id="3">🚘动画图解的数据结构与算法教程:hello-algo</h3>
-
+---
 - 项目地址：https://github.com/krahets/hello-algo
 - 推荐理由：一个动画图解的数据结构与算法教程，支持多种编程语言，如 Java、C++、Python、Go、JS、TS、C#、Swift、Rust、Dart、Zig 等。通过可视化的方式，这个项目帮助学习者更轻松地理解和学习各种数据结构与算法。
 
@@ -56,7 +56,7 @@
 - 项目地址：https://github.com/facefusion/facefusion
 - 推荐理由：一个下一代换脸器和图像增强器。它使用先进的图像处理技术，允许用户将不同的面部特征融合在一起，创造有趣和令人印象深刻的效果。这个项目的潜在应用包括娱乐、虚拟化妆和艺术创作，为用户提供了创造性的工具。
 
-- [x] 使用CLI
+Then run
 
 ```python
 python run.py [options]
@@ -130,4 +130,15 @@ frame processors:
 
 uis:
   --ui-layouts UI_LAYOUTS [UI_LAYOUTS ...]                                                                               launch a single or multiple UI layouts (choices: benchmark, default, webcam, ...)
+```
+
+<h3 id="9">🚘3D高斯飞溅实时辐射场渲染:gaussian-splatting</h3>
+
+- 项目地址：https://github.com/graphdeco-inria/gaussian-splatting
+- 推荐理由：一个用于3D实时辐射场渲染的项目。它利用高斯飞溅技术来实现高质量的辐射场渲染，适用于图形渲染和可视化领域。这个项目为研究和应用实时渲染的开发者提供了有价值的工具和资源。
+
+Then run
+
+```python
+python convert.py -s <location> --skip_matching [--resize] #If not resizing, ImageMagick is not needed
 ```
