@@ -1,0 +1,10 @@
+/* 为 h3 标题设置计数器 */
+h3 {
+  counter-reset: h3-counter;
+}
+
+/* 为带有 id 属性的 h3 标题添加自动编号 */
+h3[id]::before {
+  counter-increment: h3-counter;
+  content: counter(h3-counter) ". ";
+}
