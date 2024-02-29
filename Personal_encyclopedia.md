@@ -46,9 +46,27 @@
 - 项目地址：https://github.com/veler/DevToys
 - 推荐理由：程序员的瑞士军刀，打包了各种日常开发中可能会用到的小工具。它包括时间戳转化、各种解码工具、输出美化工具、颜色选择器等实用功能。DevToys 的用户界面友好且功能强大，使程序员能够更高效地完成常见的开发任务。
 
+<h3 id="10">🚘黑客工具全家桶:hackingtool</h3>
+
 ---
 
-<h2 id="6">🌹图像处理类</h2>
+- 项目地址：https://github.com/Z4nzu/hackingtool
+- 推荐理由：一个集成了各种黑客工具的项目，包括密码破解、SQL 注入、钓鱼攻击、跨站脚本攻击（XSS）、分布式拒绝服务攻击（DDoS）等。这个项目汇集了多种黑客技术，旨在帮助安全研究人员、白帽黑客和安全爱好者更好地了解网络安全并进行合法的安全测试。
+
+![image](https://github.com/mahaizhuang/interesting/assets/43605010/ea1ba343-362a-43f8-a5b0-a5fb7c7cbd1c)
+
+<h3 id="14">🚘计算机自学指南:cs-self-learning </h3>
+
+---
+
+- 项目地址：https://github.com/PKUFlyingPig/cs-self-learning
+- 推荐理由：一个计算机自学的指南，提供了学习计算机科学的指导和资源。该项目整理了各种学习资料、教程和实践项目，帮助初学者和自学者系统性地学习计算机科学的基础知识和技能。
+
+![image](https://github.com/mahaizhuang/interesting/assets/43605010/acf6cc91-0645-412f-b511-f71bcb693d4a)
+
+---
+
+<h2 id="6">🌹AI</h2>
 
 主要是一些AI处理工具
 
@@ -156,3 +174,38 @@ Then run
 ```python
 python convert.py -s <location> --skip_matching [--resize] #If not resizing, ImageMagick is not needed
 ```
+
+<h3 id="11">🚘免费的GPT-4 API:gpt4free-ts</h3>
+
+---
+
+- 项目地址：https://github.com/xiangsx/gpt4free-ts
+- 推荐理由：gpt4free-ts是提供免费OpenAI GPT-4 API的项目，这是xtekky/gpt4free项目的TypeScript版本。它为开发者提供了使用GPT-4的API接口，使得无需支付额外费用就能够访问强大的自然语言处理能力。
+
+![image](https://github.com/mahaizhuang/interesting/assets/43605010/ab9ad88d-1269-4342-9671-10a49cc1958f)
+
+---
+
+<h2 id="12">🌹极客工具</h2>
+
+主要是一些实用工具
+
+<h3 id="13">🚘开源笔记工具:AppFlowy</h3>
+
+---
+
+- 项目地址：https://github.com/AppFlowy-IO/AppFlowy
+- 推荐理由：一款基于Flutter开发的开源笔记工具，旨在适用于各种操作系统。其目标是成为Notion的替代品，提供强大的笔记和组织功能。AppFlowy采用现代化的技术，支持跨平台使用，为用户提供了灵活且高效的笔记体验。无论是个人学习、团队协作，还是项目管理，AppFlowy都致力于满足用户对优秀笔记工具的需求。
+
+![image](https://github.com/mahaizhuang/interesting/assets/43605010/b67e0161-b285-4da7-8130-9ff90ef0ddc3)
+
+<h3 id="15">🚘微型在线绘图工具:tldraw 27.7k</h3>
+
+---
+
+- 项目地址：https://github.com/tldraw/tldraw
+- 推荐理由：一款实用的微型在线绘图工具。这是一个”麻雀虽小，五脏俱全“的绘图工具，支持插入便签、保存进度、生成图片、多人协作等实用的功能。
+
+![image](https://github.com/mahaizhuang/interesting/assets/43605010/7db85ad2-213c-4bf8-a1c0-eeacf03a85ef)
+
+
