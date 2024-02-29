@@ -1,21 +1,21 @@
 
 <div align=center>
 
- # 🌍个人百科
+ **🌍个人百科**
  
- ### 🚘问渠那得清如许?为有源头活水来.
+ **🚘问渠那得清如许?为有源头活水来.**
 
 </div>
 
 ---
 
-## 🌹IT世界
+## 1.1. 🌹IT世界
 
 主要是一些编程语言类的知识,项目,工具等
 
 
 
-### 🚘GitHub中文排行榜:GitHub-Chinese-Top-Charts
+### 1.1.1. 🚘GitHub中文排行榜:GitHub-Chinese-Top-Charts
 
 ---
 
@@ -24,7 +24,7 @@
 
 ![image](https://github.com/mahaizhuang/interesting/assets/43605010/02172d1e-379e-453e-95c4-0566a3aaa8c0)
 
-### 🚘计算机自学指南:cs-self-learning
+### 1.1.2. 🚘计算机自学指南:cs-self-learning
 
 ---
 
@@ -43,7 +43,7 @@
 ![image](https://github.com/mahaizhuang/interesting/assets/43605010/7b6dfbe0-bc7e-4bf6-8fdb-fd39ed84f655)
 
 
-### 🚘动画图解的数据结构与算法教程:hello-algo
+### 1.1.3. 🚘动画图解的数据结构与算法教程:hello-algo
 
 ---
 
@@ -52,7 +52,7 @@
 
 ![image](https://github.com/mahaizhuang/interesting/assets/43605010/d921a1b9-fdf3-4d07-9236-cc1c658e7373)
 
-### 🚘前端小项目集合:50projects50 天之前
+### 1.1.4. 🚘前端小项目集合:50projects50 天之前
 
 ---
 
@@ -61,21 +61,21 @@
 
   ![image](https://github.com/mahaizhuang/interesting/assets/43605010/499a0e78-e4a3-456f-81a9-caed23d70c55)
 
-### 🚘流行的Tailwind CSS组件库:daisyui
+### 1.1.5. 🚘流行的Tailwind CSS组件库:daisyui
 
 ---
 
 - 项目地址:https://github.com/saadeghi/daisyui
 - 推荐理由:一款极为流行的Tailwind CSS组件库.作为当下最受欢迎的Tailwind CSS组件库之一,它具有高颜值、更纯净的HTML和深度自定义等特点.daisyui为Web开发者提供了丰富而美观的UI组件,简化了前端开发流程.
 
-### 🚘程序员的瑞士军刀:DevToys
+### 1.1.6. 🚘程序员的瑞士军刀:DevToys
 
 ---
 
 - 项目地址:https://github.com/veler/DevToys
 - 推荐理由:程序员的瑞士军刀,打包了各种日常开发中可能会用到的小工具.它包括时间戳转化、各种解码工具、输出美化工具、颜色选择器等实用功能.DevToys 的用户界面友好且功能强大,使程序员能够更高效地完成常见的开发任务.
 
-### 🚘黑客工具全家桶:hackingtool
+### 1.1.7. 🚘黑客工具全家桶:hackingtool
 
 ---
 
@@ -84,7 +84,7 @@
 
 ![image](https://github.com/mahaizhuang/interesting/assets/43605010/ea1ba343-362a-43f8-a5b0-a5fb7c7cbd1c)
 
-### 🚘Linux系统性能实时监控工具:netdata
+### 1.1.8. 🚘Linux系统性能实时监控工具:netdata
 
 ---
 
@@ -93,7 +93,7 @@
 
 ![network-connections](https://github.com/netdata/netdata/assets/2662304/5f71c102-9146-463e-acba-329094b136a5)
 
-### 🚘开源的 Linux 服务器运维面板:1Panel
+### 1.1.9. 🚘开源的 Linux 服务器运维面板:1Panel
 
 ---
 
@@ -105,11 +105,11 @@
 
 ---
 
-## 🌹AI
+## 1.2. 🌹AI
 
 主要是一些AI处理工具
 
-### 🚘图像生成软件:Fooocus
+### 1.2.1. 🚘图像生成软件:Fooocus
 
 ---
 
@@ -118,7 +118,7 @@
 
 ![image](https://github.com/mahaizhuang/interesting/assets/43605010/208475fd-5284-456b-90db-ae480c35aa04)
 
-### 🚘下一代换脸器和增强器:facefusion
+### 1.2.2. 🚘下一代换脸器和增强器:facefusion
 
 ---
 
@@ -201,7 +201,7 @@ uis:
   --ui-layouts UI_LAYOUTS [UI_LAYOUTS ...]                                                                               launch a single or multiple UI layouts (choices: benchmark, default, webcam, ...)
 ```
 
-### 🚘3D高斯飞溅实时辐射场渲染:gaussian-splatting
+### 1.2.3. 🚘3D高斯飞溅实时辐射场渲染:gaussian-splatting
 
 ---
 
@@ -214,7 +214,7 @@ Then run
 python convert.py -s <location> --skip_matching [--resize] #If not resizing, ImageMagick is not needed
 ```
 
-### 🚘免费的GPT-4 API:gpt4free-ts
+### 1.2.4. 🚘免费的GPT-4 API:gpt4free-ts
 
 ---
 
@@ -225,11 +225,11 @@ python convert.py -s <location> --skip_matching [--resize] #If not resizing, Ima
 
 ---
 
-## 🌹极客工具
+## 1.3. 🌹极客工具
 
 主要是一些实用工具
 
-### 🚘开源笔记工具:AppFlowy
+### 1.3.1. 🚘开源笔记工具:AppFlowy
 
 ---
 
@@ -238,7 +238,7 @@ python convert.py -s <location> --skip_matching [--resize] #If not resizing, Ima
 
 ![image](https://github.com/mahaizhuang/interesting/assets/43605010/b67e0161-b285-4da7-8130-9ff90ef0ddc3)
 
-### 🚘微型在线绘图工具:tldraw 27.7k
+### 1.3.2. 🚘微型在线绘图工具:tldraw 27.7k
 
 ---
 
@@ -247,7 +247,7 @@ python convert.py -s <location> --skip_matching [--resize] #If not resizing, Ima
 
 ![image](https://github.com/mahaizhuang/interesting/assets/43605010/7db85ad2-213c-4bf8-a1c0-eeacf03a85ef)
 
-### 🚘优雅的JSON数据可视化工具:jsoncrack.com
+### 1.3.3. 🚘优雅的JSON数据可视化工具:jsoncrack.com
 
 ---
 
