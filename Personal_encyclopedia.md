@@ -8,7 +8,7 @@
 
 <h2 id="1">🌹IT世界</h2>
 
-<h3 id="2">🚘Linux系统性能实时监控工具:netdata 64.2k</h3>
+<h3 id="2">🚘Linux系统性能实时监控工具:netdata</h3>
 
 - 项目地址：https://github.com/netdata/netdata
   
@@ -16,3 +16,6 @@
 
 ![network-connections](https://github.com/netdata/netdata/assets/2662304/5f71c102-9146-463e-acba-329094b136a5)
 
+---
+
+<h3 id="2">🚘动画图解的数据结构与算法教程:hello-algo</h3>
