@@ -32,6 +32,16 @@
 
 ![image](https://github.com/mahaizhuang/interesting/assets/43605010/acf6cc91-0645-412f-b511-f71bcb693d4a)
 
+<h3 id="20">🚘中文个人独立博客网站合集:chinese-independent-blogs</h3>
+
+---
+
+- 项目地址：https://github.com/timqian/chinese-independent-blogs
+- 推荐理由：中文个人独立博客网站合集。如果说中文独立博客的时代已经过去，那么至少还有这么一块地方，属于热爱自由的博主们。
+
+![image](https://github.com/mahaizhuang/interesting/assets/43605010/7b6dfbe0-bc7e-4bf6-8fdb-fd39ed84f655)
+
+
 <h3 id="3">🚘动画图解的数据结构与算法教程:hello-algo</h3>
 
 ---
