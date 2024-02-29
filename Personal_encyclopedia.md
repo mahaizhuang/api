@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 <div align=center>
 
  # 🌍个人百科
